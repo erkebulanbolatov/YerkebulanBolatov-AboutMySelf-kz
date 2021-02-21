@@ -1,1 +1,0 @@
-# YerkebulanBolatov-AboutMySelf-kz
