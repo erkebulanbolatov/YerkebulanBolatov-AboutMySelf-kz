@@ -1,8 +1,7 @@
 My personal portfolio
 
 <p>This is my home page</p>
-![alt text](Title/1.png)
-![alt text](Title/2.png)
+<img src="Title/1.png" width="100" height="10">
 
 <p>This page describes my services</p>
 ![alt text](Title/3.png)
