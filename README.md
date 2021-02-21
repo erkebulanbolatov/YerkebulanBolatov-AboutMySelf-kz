@@ -1,4 +1,4 @@
-My personal portfolio
+<h1>My personal portfolio</h1>
 
 <p>This is my home page</p>
 <img src="Title/1.png" width="400">
